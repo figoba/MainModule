@@ -1,0 +1,3 @@
+[submodule "subCopy"]
+	path = subCopy
+	url = https://github.com/figoba/SubModule.git
